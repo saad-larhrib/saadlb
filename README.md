@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saadlb
 - 👀 I’m interested in technology and innovation.
 - 🌱 I’m currently learning about Computer Engineering & Intelligent Systems.
-- 📫 How to reach me : ig - @saad.larhrib or linkedin - saad-larhrib.
+- 📫 How to reach me : linkedin -> saad-larhrib.
 - ⚡ Fun fact: I enjoy exploring new advancements in technology!
 
 <!---
